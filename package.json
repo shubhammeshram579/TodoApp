@@ -1,6 +1,5 @@
 {
   "name": "todoapp",
-  "homepage": "https://github.com/shubhammeshram579/TodoApp/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
